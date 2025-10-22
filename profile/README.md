@@ -1,12 +1,69 @@
-## Hi there 👋
+---
 
-<!--
+## 🧠 Experimental Molecular Imaging Laboratory
 
-**Here are some ideas to get you started:**
+Welcome to the **Experimental Molecular Imaging Laboratory (EMIL)** — a research group led by **Prof. Wawrzyniec Dobrucki** at the University of Illinois.
+Our mission is to **advance the understanding of biological and pathological processes** through the development and application of **innovative molecular imaging technologies**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🔗 **Learn more:** [dobrucki.info](https://dobrucki.info)
+
+---
+
+### 🔬 About the Lab
+
+At EMIL, we combine expertise in **bioengineering, molecular biology, and imaging sciences** to study disease mechanisms and therapeutic responses in vivo.
+Our work spans **preclinical to translational research**, integrating **PET, SPECT, optical, and hybrid imaging** with **computational modeling** and **AI-driven analysis**.
+
+**Research themes include:**
+
+* Molecular imaging of **inflammation, angiogenesis, and cardiovascular disease**
+* **Targeted probe development** for preclinical and translational imaging
+* **Quantitative image analysis** and **kinetic modeling**
+* **Multimodal data integration** for systems-level understanding
+* **AI and computational modeling** for precision imaging
+
+---
+
+### 👥 The Team
+
+Our interdisciplinary team includes:
+
+* **Graduate students and postdoctoral researchers** in bioengineering and biomedical sciences
+* **Medical and undergraduate students** exploring molecular imaging applications
+* **Collaborators** across engineering, medicine, and computational sciences
+
+We foster a **collaborative, inclusive, and innovative environment** where engineering meets medicine.
+
+---
+
+### 🧰 On This GitHub
+
+This organization hosts open-source tools, models, and data supporting our imaging research:
+
+* 🧩 **Image analysis scripts** (Python, MATLAB)
+* 📊 **Quantitative modeling workflows**
+* 💡 **Educational materials** for imaging and AI in medicine
+* 🧠 **Simulation tools** for tracer kinetics and physiological modeling
+
+We believe in **open science** — sharing methods and code to accelerate discovery and education in molecular imaging.
+
+---
+
+### 🤝 Get Involved
+
+Interested in collaboration or learning opportunities?
+Visit [dobrucki.info](https://dobrucki.info) for more about our projects, publications, and open positions.
+
+---
+
+### 📫 Contact
+
+**Prof. Wawrzyniec Dobrucki**
+Director, Experimental Molecular Imaging Laboratory
+📍 University of Illinois Urbana-Champaign
+🌐 [dobrucki.info](https://dobrucki.info)
+✉️ [contact form on dobrucki.info](https://dobrucki.info)
+
+---
+
+Would you like me to tailor this README more toward **academic collaborators** (formal tone, publications focus) or **students and open-source contributors** (more approachable, project-driven tone)? I can refine it accordingly.
