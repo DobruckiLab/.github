@@ -62,7 +62,6 @@ Visit [dobrucki.info](https://dobrucki.info) for more about our projects, public
 Director, Experimental Molecular Imaging Laboratory
 📍 University of Illinois Urbana-Champaign
 🌐 [dobrucki.info](https://dobrucki.info)
-✉️ [contact form on dobrucki.info](https://dobrucki.info)
 
 ---
 
