@@ -1,4 +1,4 @@
----
+
 
 ## 🧠 Experimental Molecular Imaging Laboratory
 
@@ -63,6 +63,3 @@ Director, Experimental Molecular Imaging Laboratory
 📍 University of Illinois Urbana-Champaign
 🌐 [dobrucki.info](https://dobrucki.info)
 
----
-
-Would you like me to tailor this README more toward **academic collaborators** (formal tone, publications focus) or **students and open-source contributors** (more approachable, project-driven tone)? I can refine it accordingly.
