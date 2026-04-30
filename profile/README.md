@@ -40,7 +40,7 @@ We foster a **collaborative, inclusive, and innovative environment** where engin
 
 This organization hosts open-source tools, models, and data supporting our imaging research:
 
-* 🧩 **Image analysis scripts** (Python, MATLAB)
+* 🧩 **Image analysis scripts** (Python, MATLAB, 3DSlicer)
 * 📊 **Quantitative modeling workflows**
 * 💡 **Educational materials** for imaging and AI in medicine
 * 🧠 **Simulation tools** for tracer kinetics and physiological modeling
